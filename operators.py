@@ -12,3 +12,8 @@ num5 = 9
 num6 = 3
 
 print(num5 > num6)
+
+num7 = "monday"
+num8 = "monday"
+
+print(num7 == num8)
